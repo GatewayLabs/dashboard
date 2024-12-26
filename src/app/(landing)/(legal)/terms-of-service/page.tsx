@@ -81,7 +81,7 @@ export default function TermsOfService() {
               <li>
                 <strong>“Authorized Users”</strong> or <strong>“you”</strong>{' '}
                 means End Users, Data contributors, Developers, and any
-                individual acting on behalf of an Data contributor or Developer.
+                individual acting on behalf of a Data contributor or Developer.
               </li>
               <li>
                 <strong>“Decentralized Platform”</strong> means the
@@ -219,7 +219,7 @@ export default function TermsOfService() {
                 SDKs, and Documentation solely as necessary to facilitate the
                 placement and/or updating of End User Data (for Data
                 contributors) or the receipt of End User Data (for Data
-                requestors) in accordance with these Term by modifying or
+                requestors) in accordance with these Terms by modifying or
                 integrating software applications or services that interact with
                 or utilize the functionality and/or output made available
                 through the Network in accordance with these Terms; and (ii) use
@@ -259,7 +259,7 @@ export default function TermsOfService() {
                 unavailability of which, could negatively impact personal health
                 or safety; and (iii) any information essential for the operation
                 of any computer systems or any equipment or other tangible
-                property); or (viii) access or use the Decentralied Platform
+                property); or (viii) access or use the Decentralized Platform
                 contrary to any applicable terms, these Terms, or any End User
                 preferences. Nothing in these Terms shall be construed as
                 granting you or any Authorized Users any rights other than those
@@ -458,7 +458,7 @@ export default function TermsOfService() {
                 immediately (unless legally prohibited from doing so), and if
                 you do not seek or obtain appropriate remedies prior to
                 disclosure, you may disclose only the portion of that
-                Confidential Information you reasonably believes you are legally
+                Confidential Information you reasonably believe you are legally
                 required to disclose after exercising reasonable efforts to
                 obtain confidential treatment of that information.
               </li>
@@ -570,7 +570,7 @@ export default function TermsOfService() {
                 <strong>Your Representations and Warranties. </strong>You
                 represent and warrant to Gateway that: (i) if you are an End
                 User, your End User Data does not and shall not infringe the IP
-                Rights or other rights of a third party; (ii) if you are an Data
+                Rights or other rights of a third party; (ii) if you are a Data
                 contributor, the End User Data you submit to the Network
                 pertains to the End User whose consent or direction you have
                 obtained as required under these Terms (including any Additional
@@ -580,7 +580,7 @@ export default function TermsOfService() {
                 consent of the End User as necessary for the retrieval of such
                 End User’s Data from the Network, and you will use such End User
                 Data only as directed or consented to by the End User; (iv) if
-                you are an Data contributor or a Data requestor, your submission
+                you are a Data contributor or a Data requestor, your submission
                 or retrieval of End User Data from the Network in accordance
                 with these Terms is consistent with your applicable privacy
                 notices and applicable law; (v) you shall not upload any virus
