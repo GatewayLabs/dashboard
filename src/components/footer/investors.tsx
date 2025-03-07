@@ -86,7 +86,11 @@ export default function FooterInvestors() {
               md: 'repeat(3, 1fr)',
               lg: 'repeat(4, 1fr)',
             },
-            gap: 4,
+            columnGap: 132 / 16,
+            rowGap: {
+              xs: 1,
+              sm: 5,
+            },
           }}
         >
           {logos.map((logo) => (
@@ -96,12 +100,13 @@ export default function FooterInvestors() {
               sx={{
                 position: 'relative',
                 height: 96,
+                maxWidth: 220,
                 alignItems: 'center',
                 justifyContent: 'center',
               }}
               href={logo.href}
             >
-              <Image src={logo.src} alt={logo.alt} />
+              <Image src={logo.src} alt={logo.alt} fill objectFit="contain" />
             </Stack>
           ))}
         </Box>
